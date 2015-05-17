@@ -9,7 +9,11 @@ body {
 }
 
 p {
+<<<<<<< HEAD
   color: #fff;
+=======
+  color: rgb(255, 255, 255);
+>>>>>>> master
   max-width: 320px;
   margin: auto;
 }
@@ -54,6 +58,13 @@ p {
   background-image: url('../images/ryu-throwing-hadouken.png');
 }
 
+<<<<<<< HEAD
+=======
+.ryu-cool {
+  background-image: url('../images/ryu-cool.gif');
+}
+
+>>>>>>> master
 .hadouken, .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
   background-repeat: no-repeat;
 }
